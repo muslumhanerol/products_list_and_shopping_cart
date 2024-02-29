@@ -8,4 +8,3 @@ iconCart.addEventListener('click', ()=>{
 closeBtn.addEventListener('click', ()=>{
     body.classList.toggle('activeTabCart');
 })
-8.06 kaldık
