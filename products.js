@@ -55,6 +55,5 @@ const products = [
         "description": "Expertyl rendered by Carl Hansen & Son, the lounge chair-first and walnut, sourced from susta,nable forestry. Choose from seat and back upholste",
         "image": "images/8.png"
     }
-
 ];
 export default products;
