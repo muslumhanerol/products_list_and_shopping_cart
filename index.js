@@ -17,20 +17,23 @@ const loadTemplate = () => {
 }
 loadTemplate();
 const initApp = () => {
-    console.log(products);
-    // let listProduct = document.querySelector('listProduct');
-    // listProduct.innerHTML = null;
-    // products.forEach(products => {
-    //     let newProduct = document.createElement('div');
-    //     newProduct.classList.add('item');
-    //     newProduct.innerHTML = 
-    //     `
-    //         <img src"${products.image}"/>
-    //         <h2>${products.name}</h2>
-        
-    //     `;
+    
+     let listProduct = document.querySelector('.listProduct');
+     listProduct.innerHTML = null;
+     products.forEach(product => {
+         let newProduct = document.createElement('div');
+         newProduct.classList.add('item');
+         newProduct.innerHTML = 
+         `
+             <img src="${product.image}"/>
+             <h2>${product.name}</h2>
+             <div class="price">${product.price}</div>
+             <button class="addCart"
+             data-id="${product.id}"> 
+             Add To Cart 
+             </button>        
+         `;
 
-    //     listProduct.appendChild(newProduct);
-    // })
-    14.08 kaldık
+         listProduct.appendChild(newProduct);
+    })    18.50 kaldık
 }
