@@ -29,36 +29,36 @@ const products = [
     },
     {
         "id": 5,
-        "name":" LD05 LOUNGE CHAIR",
-        "price": 300,
+        "name":" PT05 Patek Philippe Grand Complications",
+        "price": 873000,
         "image": "images/5.png",
         "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     },
     {
         "id": 6,
-        "name":" LD06 LOUNGE CHAIR",
-        "price": 200,
+        "name":" PT06 Patek Philippe Grande Complication",
+        "price": 850000,
         "image": "images/6.png",
         "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     },
     {
         "id": 7,
-        "name":" LD07 LOUNGE CHAIR",
-        "price": 200,
+        "name":" PT07 Patek Philippe",
+        "price": 760000,
         "image": "images/7.png",
         "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     },
     {
         "id": 8,
-        "name":" LD08 LOUNGE CHAIR",
-        "price": 200,
+        "name":" PT08 Patek Philippe Nautilus",
+        "price": 680000,
         "image": "images/8.png",
         "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     }
     ,
     {
         "id": 9,
-        "name":" RM08 Richard Mille McLaren Automotive",
+        "name":" RM08 Richard Mille McLaren ",
         "price": 790000,
         "image": "images/9.png",
         "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
@@ -90,32 +90,32 @@ const products = [
     ,
     {
         "id": 13,
-        "name":" LD08 LOUNGE CHAIR",
-        "price": 200,
+        "name":" BR13 Breitling Bentley",
+        "price": 560000,
         "image": "images/13.png",
         "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     }
     ,
     {
         "id": 14,
-        "name":" LD08 LOUNGE CHAIR",
-        "price": 200,
+        "name":" BR14 Breitling Transocean",
+        "price": 420000,
         "image": "images/14.png",
         "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     }
     ,
     {
         "id": 15,
-        "name":" LD08 LOUNGE CHAIR",
-        "price": 200,
+        "name":" BR15 Breitling Chronomat 44 GMT",
+        "price": 320000,
         "image": "images/15.png",
         "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     }
     ,
     {
         "id": 16,
-        "name":" LD08 LOUNGE CHAIR",
-        "price": 200,
+        "name":" BR16 Breitling 1884 Chronometre",
+        "price": 360000,
         "image": "images/16.png",
         "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     }
