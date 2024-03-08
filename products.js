@@ -1,29 +1,29 @@
 const products = [
     {
         "id": 1,
-        "name":" LD01 LOUNGE CHAIR",
-        "price": 200,
+        "name":" RL01 ROLEX Submariner",
+        "price": 500000,
         "image": "images/1.png",
         "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     },
     {
         "id": 2,
-        "name":" LD02 LOUNGE CHAIR",
-        "price": 250,
+        "name":" RL02 ROLEX Superlative",
+        "price": 250000,
         "image": "images/2.png",
         "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     },
     {
         "id": 3,
-        "name":" LD03 LOUNGE CHAIR",
-        "price": 290,
+        "name":"RL03 ROLEX DateJust",
+        "price": 400000,
         "image": "images/3.png",
         "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     },
     {
         "id": 4,
-        "name":" LD04 LOUNGE CHAIR",
-        "price": 200,
+        "name":" RL04 ROLEX Daytona",
+        "price": 425000,
         "image": "images/4.png",
         "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     },
@@ -58,32 +58,32 @@ const products = [
     ,
     {
         "id": 9,
-        "name":" LD08 LOUNGE CHAIR",
-        "price": 200,
+        "name":" RM08 Richard Mille McLaren Automotive",
+        "price": 790000,
         "image": "images/9.png",
         "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     }
     ,
     {
         "id": 10,
-        "name":" LD08 LOUNGE CHAIR",
-        "price": 200,
+        "name":" RM10 Richard Mille Tourbillon  ",
+        "price": 680000,
         "image": "images/10.png",
         "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     }
     ,
     {
         "id": 11,
-        "name":" LD08 LOUNGE CHAIR",
-        "price": 200,
+        "name":" RM11 Richard Mille Formula 1",
+        "price": 900000,
         "image": "images/11.png",
         "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     }
     ,
     {
         "id": 12,
-        "name":" LD08 LOUNGE CHAIR",
-        "price": 200,
+        "name":" RM11 Richard Mille ATP",
+        "price": 640000,
         "image": "images/12.png",
         "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     }
