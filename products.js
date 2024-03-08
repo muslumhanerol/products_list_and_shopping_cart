@@ -43,7 +43,7 @@ const products = [
     },
     {
         "id": 7,
-        "name":" PT07 Patek Philippe",
+        "name":" PT07 Patek Philippe Geneve",
         "price": 760000,
         "image": "images/7.png",
         "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
