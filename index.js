@@ -35,7 +35,7 @@ const initApp = () => {
          <button 
              class="addCart" 
              data-id='${product.id}'>
-                 Add To Cart
+                 Sepete Ekle
          </button>`;
          listProductHTML.appendChild(newProduct);
     });
